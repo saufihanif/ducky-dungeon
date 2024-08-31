@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kill_trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - jumpableGround
+  - 
+  - Player
+  - DamageEntity
+  - Monster
+  - Boss
+  - Gate
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 1458691257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 3087543005
+    locked: 0
+  - name: Spikes
+    uniqueID: 1584654131
+    locked: 0
+  - name: Traps
+    uniqueID: 351669987
+    locked: 0
+  - name: ground
+    uniqueID: 914924731
+    locked: 0
+  - name: Enemy
+    uniqueID: 4098692547
+    locked: 0
+  - name: signboard
+    uniqueID: 1658132729
+    locked: 0
+  - name: collectable
+    uniqueID: 4046052253
+    locked: 0
+  - name: gate
+    uniqueID: 3989686869
+    locked: 0
+  - name: Player
+    uniqueID: 3515491941
+    locked: 0
+  - name: collider
+    uniqueID: 2677753187
+    locked: 0
+  - name: portal
+    uniqueID: 2542759699
+    locked: 0
